@@ -41,7 +41,8 @@ Gradient Boosting offers the best overall balance, but Random Forest is recommen
 
 ## 📂 Repository Structure
 - `notebooks/` – Jupyter/Colab notebooks with full model training & evaluation  
-- `report/` – Project PDF and documentation  
+- `report/` – Project PDF and documentation
+- `images/` – Visualizations (EDA plots, model performance, training curves)  
 
 ---
 
