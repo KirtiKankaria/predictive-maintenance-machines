@@ -46,7 +46,7 @@ Gradient Boosting offers the best overall balance, but Random Forest is recommen
 ---
 
 ## 🔗 Links
-- 📄 [Project Report (PDF)](./Predictive_Maintenance_for_Machines.ipynb-Colab.pdf)  
+- 📄 [Project Report (PDF)](https://github.com/KirtiKankaria/predictive-maintenance-machines/blob/main/Predictive_Maintenance_for_Machines.ipynb%20-%20Colab.pdf)  
 - 📊 [Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)  
 
 ---
